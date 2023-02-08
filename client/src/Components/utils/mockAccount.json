@@ -1,0 +1,13 @@
+[{
+    "firstName": "testFirstName",
+    "secondName": "testSecondName",
+    "username": "testUsername",
+    "email" : "testEmails202@gmail.com",
+    "password" : "testPassword1"
+},{
+    "firstName": "testFirstName",
+    "secondName": "testSecondName",
+    "username": "testUsername2",
+    "email" : "testEmails203@gmail.com",
+    "password" : "testPassword1"
+}]

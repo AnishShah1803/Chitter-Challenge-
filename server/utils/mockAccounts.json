@@ -1,0 +1,25 @@
+[{
+    "firstName": "Anish",
+    "secondName": "Shah",
+    "username": "username1",
+    "email": "anemail@gmail.com",
+    "password": "Password1"
+},{
+    "firstName": "Shah",
+    "secondName": "Anish",
+    "username": "username2",
+    "email": "anemail2@gmail.com",
+    "password": "Password1"
+},{
+    "firstName": "Hsina",
+    "secondName": "Hahs",
+    "username": "username3",
+    "email": "anemail3@gmail.com",
+    "password": "Password1"
+},{
+    "firstName": "Hahs",
+    "secondName": "Hsina",
+    "username": "username4",
+    "email": "anemail4@gmail.com",
+    "password": "Password1"
+}]

@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+Header{
+  padding-bottom: 10%;
+  margin-bottom: 10%;
+}
+
+Footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+

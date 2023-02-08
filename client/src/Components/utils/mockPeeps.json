@@ -1,0 +1,24 @@
+[{
+    "_id":"1",
+    "firstName":"a firstname",
+    "secondName":"a secondname",
+    "username":"aFakeUsername",
+    "content":"This is a peep test this is peep test",
+    "dateCreated":"01/12/22, 10:52:12"
+},
+{  
+    "_id":"3",
+    "firstName":"a firstname",
+    "secondName":"a secondname",
+    "username":"aFakeUsername",
+    "content":"This is another peep test this is another peep test",
+    "dateCreated":"02/12/22, 15:10:12"
+},
+{ 
+    "_id":"2",
+    "firstName":"a firstname",
+    "secondName":"a secondname",
+    "username":"aFakeUsername2",
+    "content":"This is a third peep test this is a third peep test",
+    "dateCreated":"03-12/22, 11:49:51"
+}]
